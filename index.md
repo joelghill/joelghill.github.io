@@ -7,4 +7,6 @@ title: Welcome
 list_title: Updates
 ---
 
-## TEST ##
+Welcome to my blog. 
+
+I'm going to post updates here on a semi-regular basis with an emphasis chronicling the personal projects I undertake. I usually write software, but lately I've been diving head first into electronics.
