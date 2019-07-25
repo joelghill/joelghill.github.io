@@ -1,6 +1,6 @@
 ---
-layout: default
-title: About Joel
+layout: page
+title: About
 permalink: /about/
 ---
 
