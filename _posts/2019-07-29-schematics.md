@@ -2,6 +2,7 @@
 layout: post
 title:  "I found Schematics!"
 date:   2019-07-29
+comments: true
 categories: [apple_pi]
 tags: [Raspberry-Pi, MacBook, A1286] 
 ---

@@ -29,6 +29,9 @@ plugins:
 
 google_analytics: UA-33348943-2
 
+disqus:
+  shortname: joelhill
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
