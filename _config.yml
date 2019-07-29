@@ -31,6 +31,7 @@ google_analytics: UA-33348943-2
 
 disqus:
   shortname: joelhill
+  url: http://joelghill.github.io
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
