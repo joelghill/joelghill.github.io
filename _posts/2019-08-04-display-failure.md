@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using the MacBook Display: Why Do I Smell Smoke?"
-date:   2019-07-26
+date:   2019-08-04
 categories: [apple_pi, failures]
 tags: [Raspberry-Pi, MacBook, A1286, Fail] 
 ---
