@@ -1,9 +1,12 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-
 @import "minima";
 @import "main";
+
+.post-card {
+    border-radius: 3px;
+    -webkit-box-shadow: 0px 1px 6px 0px rgba(59,59,59,1);
+    -moz-box-shadow: 0px 1px 6px 0px rgba(59,59,59,1);
+    box-shadow: 0px 1px 6px 0px rgba(59,59,59,1);
+}
 
 .post-link {
     display: inline;
