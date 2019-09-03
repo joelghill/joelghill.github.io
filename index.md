@@ -4,6 +4,6 @@
 
 layout: home
 title: Welcome
-list_title: Updates
+list_title: Posts
 ---
 You've found my blog! This is a chronicle of my successes and failures as a software developer and electronics hobbyist. I'm currently adapting a MacBook Pro into a Raspberry Pi powered laptop... with moderate success. 

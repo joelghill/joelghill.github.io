@@ -6,7 +6,7 @@ categories: [apple_pi]
 tags: [Raspberry-Pi, MacBook, A1286, Cypress] 
 ---
 At this point the keyboard an trackpad are likely the most complex integrations with the Raspberry Pi that I'm going to have to deal with. The computers power button is actually connected to the keyboard which is something I want to reuse, and the trackpad is a complicated electronic component that I will have a difficult time reverse engineering.
-
+<!--more-->
 If you look closely at the connections on the motherboard (trackpad on the left, keyboard on the right) you can see they both connect to the integrated circuit (IC) in the middle:
 ![Left: Trackpad connection. Right: keyboard](/assets\images\keyboard_trackpad_components.jpg)
 

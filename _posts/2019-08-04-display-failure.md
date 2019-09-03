@@ -6,7 +6,7 @@ categories: [apple_pi, failures]
 tags: [Raspberry-Pi, MacBook, A1286, Fail] 
 ---
 I screwed up... let's start at the beginning though.
-
+<!--more-->
 I've actually made some progress integrating the Raspberry Pi to the MacBook Pro display. As it turns out, eBay is a fantastic resource for niche electronic components. After a bit of searching I was able to discover the make and model of the MacBook display (LTN154MT07-G01), as well as a [dedicated controller board kit.](https://www.ebay.com/itm/RTD2270-LED-LCD-Controller-Board-Kit-For-DIY-15-4-Screen-LP154WP4-TLA1-1440x900/182754823373?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)
 
 Now, if you're paying close attention, you'll see my first mistake; *I bought the wrong controller.* Oops.

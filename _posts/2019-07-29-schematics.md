@@ -8,7 +8,7 @@ tags: [Raspberry-Pi, MacBook, A1286]
 ---
 
 I'm actually still playing catch up on documenting my progress with the Apple Pi so this is actually a bit of an older update. However, I wanted to write a dedicated post on my most important discovery so far: **The full schematics and board view for my Macbook Pro (model A1286)!**
-
+<!--more-->
 ![YAAAAASSSSS!](/assets/images/board_view.png)
 
 To be honest, once I knew the model number for my machine it wasn't hard to track down these files after a bit of Googling. They are the property of Apple, so I'm not going to directly share or link to the documents, but if you try hard enough I'm sure you can find them if you need to.

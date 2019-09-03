@@ -4,3 +4,17 @@
 
 @import "minima";
 @import "main";
+
+.post-link {
+    display: inline;
+    font-size: 24px;
+}
+
+.post-list > li > h4 {
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.post-list > li {
+    margin-bottom: 15px;
+}

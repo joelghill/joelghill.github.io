@@ -8,6 +8,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true # set to true to show excerpts on the homepage
+excerpt_separator: <!--more-->
 
 # theme settings
 minima:
@@ -20,6 +21,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - about.md
+ - apple_pi.md
 
 # Build settings
 theme: minima
