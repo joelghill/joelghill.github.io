@@ -13,7 +13,7 @@ layout: default
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {% for post in site.categories[category] %}
-      <li>
+      <li class="post-card">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}      
         <h4>
           <a class="post-link" href="{{ post.url | relative_url }}">
